@@ -1,3 +1,5 @@
+vim ÆÄÀÏ¸í.py
+
 git init
 
 git status
